@@ -21,7 +21,7 @@ GET http://127.0.0.1 # returns the full list of data
 
 GET http://127.0.0.1?limit=5 # limits the data return to 5 object
 
-GET http://127.0.0.1/:id # returns a single object with id 4ddbe251-72af-495e-8e9d-869217e1d92a
+GET http://127.0.0.1/:id # returns the object with the given id
 
 
 ```
